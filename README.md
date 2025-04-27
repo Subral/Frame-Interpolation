@@ -1,4 +1,4 @@
-# NightDayGAN: Image Domain Translation Using Pix2Pix
+# FILM Frame Interpolation for Large Motion
 
 A TensorFlow 2 implementation of an advanced image-to-image translation model specifically designed for converting nighttime scenes to daytime imagery.
 
