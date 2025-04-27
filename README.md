@@ -2,8 +2,6 @@
 
 A TensorFlow 2 implementation of an advanced image-to-image translation model specifically designed for converting nighttime scenes to daytime imagery.
 
-![NightDayGAN Examples](https://i.imgur.com/placeholder.jpg)
-
 ## Project Overview
 
 NightDayGAN leverages the power of conditional Generative Adversarial Networks (cGANs) to perform realistic translations between night and day image domains. Based on the Pix2Pix architecture, this implementation is specifically optimized for the night2day dataset.
